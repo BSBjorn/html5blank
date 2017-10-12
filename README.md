@@ -9,7 +9,7 @@ Powerful shell for rapidly deploying your WordPress projects.
 ## Getting Started with HTML5 Blank
 
 * Go to the Wordpress' theme folder (`.../wp-content/themes`)
-* In CLI, run: `git clone https://github.com/toddmotto/html5blank.git`
+* In CLI, run: `git clone https://github.com/bsbjorn/html5blank.git`
 * `cd html5blank` and then `npm install` and then `bower install` (you'll need gulp install as well)
 * `gulp watch` will enable `livereload` and development version
 * `gulp build` for distribute version with minified `js` and `css` files
