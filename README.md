@@ -2,11 +2,9 @@
 
 Powerful shell for rapidly deploying your WordPress projects.
 
-* Project: [github.com/toddmotto/html5blank](https://github.com/toddmotto/html5blank)
-* Website: [html5blank.com](http://html5blank.com)
-* Twitter: [@html5blank](http://twitter.com/html5blank)
-* Author : [Todd Motto](http://toddmotto.com) // [@toddmotto](http://twitter.com/toddmotto)
-
+* Project: [github.com/BSBjorn/html5blank](https://github.com/BSBjorn/html5blank)
+* Forked from github.com/toddmotto/html5blank, orginal author: [Todd Motto](http://toddmotto.com) // [@toddmotto](http://twitter.com/toddmotto)
+* Author : Bjørn Kamfjord // BitSector AS 
 
 ## Getting Started with HTML5 Blank
 
